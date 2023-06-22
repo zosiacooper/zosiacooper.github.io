@@ -59,3 +59,21 @@ header:
       slug: /     # <-- index.md
     - name: Research  # <-- research.md
     - name: Teaching  # <-- teaching.md
+
+footer:
+  show_powered_by: false
+  contact:
+    - name: Email
+      value: yourmail@domain.com
+      link: mailto:yourmail@domain.com
+    - name: WeChat
+      value: YourWeChatUsername
+      link: "#"
+  follow:
+    - name: LinkedIn
+      link: http://linkedin.com/in/YourLinkedInUsername
+    - name: Twitter
+      link: http://twitter.com/YourTwitterUsername
+      username: "@YourTwitterUsername"
+    - name: Mastodon
+      link: http://github.com/YourGitHubUsername
