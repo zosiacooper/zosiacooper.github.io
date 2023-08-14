@@ -6,10 +6,10 @@ profile_picture:
   alt: website picture
 ---
 
-I am a doctoral student in Sociology at UC San Diego. You can access my CV here. 
+I am a doctoral student in Sociology at UC San Diego. 
 
-I research how economic ideas are rendered as culture: orienting frameworks for our life and work. Although I pursue this interest using theoretical tools from the study of organizations and work, I largely consider myself an economic and cultural sociologist.
+I'm interested in how people think about work and the economy in their everyday lives. Although much of the subject matter I work on fits under the umbrella of economic sociology, I often use theoretical tools from the study of organizations.
 
-My dissertation focuses on college students who invest in financial markets. Collegians today face a highly uncertain future, but rather than invest in ways that mitigate this uncertainty, they are more likely than investors from other age cohorts to make risky choices. My preliminary findings that many college student investors have high financial literacy makes this pattern even more puzzling. How do cultural factors that young investors encounter on and off campus explain this contradiction?
+My dissertation focuses on Gen Z's investment in financial markets. During the COVID-19 lockdowns, young people furnished with government stimulus checks drove an increase in retail investing and cryptocurrency sales. Studies have found that young people are more likely than other age cohorts to make risky moves on financial markets, such as trading frequently, investing in individual stocks rather than index funds, and owning highly volatile assets such as cryptocurrency and NFTs. Besides the availability of stimulus checks, what drives young people with few assets to risk them in financial markets? Why is it, as one analyst writes, that 18-25 year olds today are “the most investment-savvy generation?” 
 
-I'm also working with [Dr. Amy Binder](https://snfagora.jhu.edu/person/amy-binder/) and [Dr. Jeffrey Kidder](https://www.niu.edu/jkidder) to understand how and why right-of-center political actors build institutions in academia. Drawing on organizational theory and the sociology of work, we explain that oppositional groups build organizations that offer them maximum autonomy over professional identity and meaning-making.
+I'm also working with [Dr. Amy Binder](https://snfagora.jhu.edu/person/amy-binder/) and [Dr. Jeffrey Kidder](https://www.niu.edu/jkidder) to understand how and why libertarian political actors build institutions in academia. Drawing on new institutionalism and field theory, we argue that political organizations have worked to create a professional subculture of libertarian academics: not quite challengers, but not entirely embraced within their academic disciplines either.  
