@@ -5,7 +5,7 @@ slug: /research
 ---
 
 ### Articles in preparation
-**Cooper, Zosia**, Amy Binder, and Jeffrey Kidder. “Philosophers of the market: How libertarian organizations wage the ‘battle of ideas.’”
+**Cooper, Zosia**, Amy Binder, and Jeffrey Kidder. “Philosophers of the market: How libertarian organizations wage the ‘battle of ideas.’” (Preparing for submission)
 
 Binder, Amy, **Zosia Cooper**, and Jeffrey Kidder. "Why do classical liberals love PPEs, and why do progressives care?.” (Preparing for submission)<br><br>Kidder, Jeffrey, **Zosia Cooper**, and Amy Binder. “The ‘dirty work’ of political labeling in academia.” (Preparing for submission)
 
