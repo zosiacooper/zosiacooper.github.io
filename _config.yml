@@ -56,6 +56,7 @@ header:
     - name: About
       slug: /     # <-- index.md
     - name: Research  # <-- research.md
+    - name: Gen Z investors # <-- GenZinvestors.md
     - name: Teaching  # <-- teaching.md
 
 footer:
