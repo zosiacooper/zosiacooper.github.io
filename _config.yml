@@ -54,10 +54,14 @@ plugins:
 header:
   pages:
     - name: About
+      link: /
       slug: /     # <-- index.md
     - name: Research  # <-- research.md
+      link: research
     - name: Gen Z investors # <-- GenZinvestors.md
+      link: genz
     - name: Teaching  # <-- teaching.md
+      link: teaching
 
 footer:
   show_powered_by: false
