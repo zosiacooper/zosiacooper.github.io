@@ -1,5 +1,5 @@
 ---
-layout: GenZinvestors
+layout: finance
 title: "College personal finance study"
 permalink: /finance
 ---
