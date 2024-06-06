@@ -58,7 +58,7 @@ header:
       slug: /     # <-- index.md
     - name: Research  # <-- research.md
       link: research
-    - name: College finance # <-- GenZinvestors.md
+    - name: Gen Z finance # <-- GenZinvestors.md
       link: finance
     - name: Teaching  # <-- teaching.md
       link: teaching
