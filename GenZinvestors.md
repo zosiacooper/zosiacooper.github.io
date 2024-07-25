@@ -1,10 +1,10 @@
 ---
 layout: finance
-title: "Recruiting participants for dissertation research on personal finance"
+title: "Recruiting participants for dissertation research on financial wellbeing"
 permalink: /finance
 ---
 
-I’m interviewing college juniors/seniors and recent grads about their financial goals and current personal finance. The focus of my research is on financial investment, but you do not have to be an investor in order to participate. Interviews last around one hour and focus on your experiences with college and work, and what your goals are in terms of your career, your family life, and more. 
+I’m interviewing college juniors/seniors and recent grads about their financial wellbeing. The focus of my research is on financial investment as part of a range of things people do to ensure their financial wellbeing, but you do not have to be an investor in order to participate. **Actually! I'm especially interested in talking to people who *do not invest* at the moment.** Interviews last around one hour and focus on your ideas and experiences with money, experiences with college and work, and what your goals are in terms of your career, your family life, and more. 
 
 All participants receive a $30 Amazon gift card as a thank you!
 
