@@ -3,7 +3,7 @@ layout: research
 title: Research
 slug: /research
 ---
-updated May 1, 2025
+updated July 15, 2025
 ### Peer-reviewed articles
 
 [**Cooper, Zosia**, Amy Binder, and Jeffrey Kidder. 2024. "Keeping Libertarianism Alive in the Academy: Organizations, Scholars, and the Idea Pipeline." _Socius_.](https://journals.sagepub.com/doi/full/10.1177/23780231241287949)
