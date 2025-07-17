@@ -22,3 +22,5 @@ Binder, Amy J., Jeffrey L. Kidder, and **Zosia Cooper**. Carving Out Ideological
 ### Working papers
 **Cooper, Zosia**. "Gen Zs and the changing face of work centrality." Manuscript available. 
 
+**Cooper, Zosia**. "How upwardly mobile Gen Zs are driving a trend of early investment." Manuscript available.
+
