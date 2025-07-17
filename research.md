@@ -18,8 +18,8 @@ Binder, Amy J., Jeffrey L. Kidder, and **Zosia Cooper**. Carving Out Ideological
 
 Kidder, Jeffrey L., Amy J. Binder, and **Zosia Cooper**. 	"We Don't Fit At All": The Symbolic Boundaries of Libertarians Connected to the Academy. R&R at _American Journal of Cultural Sociology._
 
-**Cooper, Zosia**, Amy Binder, and Jeffrey Kidder. "Political minorities in professional workplaces: the case of libertarian scholars." Preparing for submission to _Organization Science_.
+**Cooper, Zosia**, Amy Binder, and Jeffrey Kidder. [Political minorities in the professions.] Under review at _Administrative Science Quarterly_.
 
 ### Working papers
-**Cooper, Zosia**. "Gen Zs and the changing face of work devotion." Manuscript available. 
+**Cooper, Zosia**. "Gen Zs and the changing face of work centrality." Manuscript available. 
 
