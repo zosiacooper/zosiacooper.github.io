@@ -2,7 +2,7 @@
 layout: home
 title: About
 profile_picture:
-  src: /assets/img/profile-pic.jpg
+  src: /assets/img/image001.jpg
   alt: website picture
 ---
 
