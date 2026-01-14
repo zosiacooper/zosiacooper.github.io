@@ -4,7 +4,7 @@ title: Teaching
 slug: /teaching
 ---
 
-As an instructor of record and teaching assistant at UC San Diego, I've developed a teaching style that prioritizes equity, student feedback, and active learning. I believe transparency about how class activities are linked to learning objectives, and about the hidden curriculum that can improve student outcomes, is essential to equity-minded teaching. My syllabi always include multiple checkpoints for student feedback and classroom activities that improve learning.
+As an instructor of record and teaching assistant at UC San Diego, I've developed a teaching style that prioritizes equity, student feedback, and active learning. I believe transparency about the connections between what we do in class and the course's learning objectives, but also about aspects of the hidden curriculum that could benefit students, is essential to equity-minded teaching. My syllabi always include multiple checkpoints for student feedback and classroom activities that improve learning.
 
 At the undergraduate level, I teach a class on qualitative interviewing in which small groups collaborate on an interview project that builds on existing research on careers and work. Syllabus available [here](https://docs.google.com/document/d/1iBDkV3jFughBashENUGp-LWkiUyn3MQsRcpBR90AIrs/edit?usp=sharing).
 
