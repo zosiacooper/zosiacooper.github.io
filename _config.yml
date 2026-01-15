@@ -24,7 +24,6 @@ description: >- # this means to ignore newlines until "baseurl:"
  Sociologist and researcher
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: zosiaxyz
 github_username:  zosiacooper
 
 # Build settings
@@ -72,8 +71,3 @@ footer:
   follow:
     - name: LinkedIn
       link: https://www.linkedin.com/in/zosiacooper/
-    - name: Twitter
-      link: https://twitter.com/zosiaxyz
-      username: "@zosiaxyz"
-    - name: Mastodon
-      link: https://sciences.social/@zosiaxyz
