@@ -46,6 +46,10 @@
       }
     }
 
+    &.follow-links .social-link {
+      white-space: nowrap;
+    }
+    
     &.follow-links .social-link a {
       white-space: nowrap;
     }
