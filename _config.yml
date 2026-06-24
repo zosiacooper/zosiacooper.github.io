@@ -59,6 +59,8 @@ header:
       link: research
     - name: Teaching  # <-- teaching.md
       link: teaching
+    - name: CV  # <-- cv.md
+      link: cv
 
 footer:
   show_powered_by: false
