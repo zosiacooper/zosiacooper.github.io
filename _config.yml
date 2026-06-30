@@ -61,6 +61,8 @@ header:
       link: teaching
     - name: CV  # <-- cv.md
       link: cv
+    - name: Background  # <-- background.md
+      link: background
 
 footer:
   show_powered_by: false
