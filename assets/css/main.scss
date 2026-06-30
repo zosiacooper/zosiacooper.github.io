@@ -33,3 +33,13 @@ $on-laptop: 800px;
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import "base", "layout", "site", "work", "blog", "post", "404";
+
+.wrapper {
+  max-width: 960px;
+}
+
+@include media-query($on-laptop) {
+  .wrapper {
+    max-width: 960px;
+  }
+}
