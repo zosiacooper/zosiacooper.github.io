@@ -7,7 +7,7 @@ slug: /research
 My research agenda covers three main questions. Throughout these research areas, I consider how the processes I study affect inter-group inequalities as well as organizational and market outcomes.
 
 ### 1. How are early-career workers coping with career uncertainty?
-**Cooper, Zosia. “Beyond the paycheck: why young Americans invest in financial markets.” Under review at *American Journal of Sociology*.**  
+**Cooper, Zosia. “Beyond the paycheck: why young Americans invest in financial markets.” Preparing for submission to *Administrative Science Quarterly*.**  
 In my job market paper, I study how recent college graduates are preempting career instability by engaging with “democratized” (i.e. easily accessible) markets. Using survey data analysis, I establish a surge in financial investment among 18-24 year olds over the past decade, particularly among groups previously underrepresented in investment, like women and people of color. Then, using life history interviews and in-depth longitudinal follow ups, I find that young people use investment to hedge against perceived future lifestyle pressures, both material (low salaries, job instability, and volatile housing and service markets) and cognitive (work-related fatigue and identity loss). Comparing those who do invest with those who don’t, I find that career clarity—knowing the industry and role you plan to be employed in, even if you aren’t yet employed—enables calculation of cash inflows and outflows as well as a clearer understanding of the risks of careers.
 
 **Cooper, Zosia. “Same money, different message: a comparative analysis of YouTube career and finance advice” (working title). Data analysis in progress.**  
