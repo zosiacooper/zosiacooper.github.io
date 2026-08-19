@@ -4,7 +4,7 @@ title: Research
 slug: /research
 ---
 
-My research agenda covers three main questions. Throughout these research areas, I consider how the processes I study affect inter-group inequalities as well as organizational and market outcomes.
+My research agenda covers three main questions:
 
 ### 1. How are early-career workers coping with career uncertainty?
 **Cooper, Zosia. “Beyond the paycheck: why young Americans invest in financial markets.” Preparing for submission to *Administrative Science Quarterly*.**  
