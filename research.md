@@ -7,7 +7,8 @@ slug: /research
 My research agenda covers three main questions. Throughout these research areas, I consider how the processes I study affect inter-group inequalities as well as organizational and market outcomes.
 
 ### 1. How are early-career workers coping with career uncertainty?
-**Cooper, Zosia. “Beyond the paycheck: why young Americans invest in financial markets.” Preparing for submission to *Administrative Science Quarterly*.**  
+**Cooper, Zosia. “Beyond the paycheck: why young Americans invest in financial markets.” Preparing for submission to *Administrative Science Quarterly*.**
+
 <details>
 <summary>Abstract</summary>
 
@@ -15,7 +16,8 @@ In my job market paper, I study how recent college graduates are preempting care
 
 </details>
 
-**Cooper, Zosia. “Same money, different message: a comparative analysis of YouTube career and finance advice” (working title). Data analysis in progress.**  
+**Cooper, Zosia. “Same money, different message: a comparative analysis of YouTube career and finance advice” (working title). Data analysis in progress.**
+
 <details>
 <summary>Abstract</summary>
 
@@ -24,7 +26,8 @@ How does pursuing security under conditions of uncertainty intersect with gender
 </details>
 
 ### 2. How are popular beliefs *about* work changing behavior *at* work?
-**Cooper, Zosia. “How career trade-offs shape professional identification in early career work.” Working paper available upon request.**  
+**Cooper, Zosia. “How career trade-offs shape professional identification in early career work.” Working paper available upon request.**
+
 <details>
 <summary>Abstract</summary>
 
@@ -32,7 +35,8 @@ Trends like quiet quitting suggest that as work becomes more uncertain, workers 
 
 </details>
 
-**Scruggs, Jared and Zosia Cooper. “The propagation and enactment of contentious frames toward work, at work.” Preparing for submission to *Academy of Management Review*.**  
+**Scruggs, Jared and Zosia Cooper. “The propagation and enactment of contentious frames toward work, at work.” Preparing for submission to *Academy of Management Review*.**
+
 <details>
 <summary>Abstract</summary>
 
@@ -41,7 +45,8 @@ Online movements against overwork and corporate employment relationships (e.g., 
 </details>
 
 ### 3. How do professionals experience and manage political tension in their fields? 
-**Cooper, Zosia, Amy J. Binder, and Jeffrey L. Kidder. “Ideological heterogeneity in professional fields: How politics can reinforce professional identification.” Under review at *American Sociological Review*.**    
+**Cooper, Zosia, Amy J. Binder, and Jeffrey L. Kidder. “Ideological heterogeneity in professional fields: How politics can reinforce professional identification.” Under review at *American Sociological Review*.**
+
 <details>
 <summary>Abstract</summary>
 
@@ -49,7 +54,8 @@ In this paper, we develop the concept of professional polysemy. Polysemic profes
 
 </details>
 
-**Cooper, Zosia, Amy J. Binder, and Jeffrey L. Kidder. 2024. “Keeping Libertarianism Alive in the Academy: Organizations, Scholars, and the Idea Pipeline.” Socius 10:23780231241287949. doi:10.1177/23780231241287949**  
+**Cooper, Zosia, Amy J. Binder, and Jeffrey L. Kidder. 2024. “Keeping Libertarianism Alive in the Academy: Organizations, Scholars, and the Idea Pipeline.” Socius 10:23780231241287949. doi:10.1177/23780231241287949**
+
 <details>
 <summary>Abstract</summary>
 
@@ -69,4 +75,3 @@ Kidder, Jeffrey L., Amy J. Binder, and Zosia Cooper. 2025. “‘We Don’t Fit 
 
 
  
-
