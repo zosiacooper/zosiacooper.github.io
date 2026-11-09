@@ -6,7 +6,7 @@ profile_picture:
   alt: website picture
 ---
 
-I study the changing world of work, and what those changes mean for intergroup inequalities, organizations, and markets. In my dissertation research, I show how young workers manage uncertainty and create meaning through participation in labor and financial markets. I also study how political polarization manifests as tension at work. 
+I study the changing world of work, and what those changes mean for intergroup inequalities, organizations, and markets. My dissertation research shows how a new generation of workers is reacting to the conditions of contemporary employment. I also study how political polarization manifests as tension at work.
 
 I use mixed methods, often pairing survey data to establish trends in behavior with interviews to uncover social psychological and organizational mechanisms. I am skilled in computational text analysis, which I use to study culture at scale.
 
