@@ -63,6 +63,8 @@ header:
       link: cv
     - name: Background  # <-- background.md
       link: background
+    - name: Interviews  # <-- GenZinvestors.md (permalink /finance)
+      link: finance
 
 footer:
   show_powered_by: false
